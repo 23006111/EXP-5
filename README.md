@@ -5,7 +5,7 @@ To find the Zener Break down voltage regulation condition.
 
 # APPARATUS:
 ```
-S.No	Name of the Apparatus	Range	Quantity
+S.No Name of the Apparatus	Range	Quantity
 1	Zener Diode (IN 4735A)		1
 2	Resistors	1KΩ, 10KΩ	1
 3	Regulated Power Supply	(0-30)V DC	1
@@ -29,17 +29,18 @@ A zener diode is heavily doped p-n junction diode, specially made to operate in 
    
 # OBSERVATIONS:
 ![WhatsApp Image 2025-11-05 at 8 20 34 AM](https://github.com/user-attachments/assets/890fd74a-b32f-4528-9d93-488807971dd4)
+
 ![WhatsApp Image 2025-11-05 at 8 20 34 AM (1)](https://github.com/user-attachments/assets/99873a3f-acde-4685-8179-5b57f4df4cc4)
 
 
 
 # LINE REGULATION:
 
-<img width="903" height="535" alt="image" src="https://github.com/user-attachments/assets/48de7846-9bcb-4668-ab0d-eeecc2ae56f5" />
+<img width="1184" height="445" alt="image" src="https://github.com/user-attachments/assets/42a0f5a6-7ea8-4f70-b885-775614f40f9e" />
 
 # LOAD REGULATION:
-<img width="897" height="531" alt="image" src="https://github.com/user-attachments/assets/c16e6d33-9663-4dfa-a8eb-a0fb2d94bb24" />
 
+<img width="850" height="308" alt="image" src="https://github.com/user-attachments/assets/c321a284-ce2f-4aca-8a21-17177edae70a" />
 
 
 
